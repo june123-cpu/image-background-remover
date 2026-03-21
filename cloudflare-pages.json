@@ -1,0 +1,10 @@
+{
+  "routes": [
+    {
+      "pattern": "/api/*",
+      "zone_name": null
+    }
+  ],
+  "vars": {},
+  "env": {}
+}
